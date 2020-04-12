@@ -1,6 +1,6 @@
 # what a wonderful day!
 # we want prof. Suho Lee!! please wake up ...
-#대충 바꾸기 테스트하는 주석
+#대충 바꾸기 테스트하는 주석3
 
 import sys #외장함수 불러옴
 import pygame #파이게임 불러옴
